@@ -6,3 +6,29 @@ git add <direktori>
 
 Commit
 git commit -m <message>
+
+Push
+git push <remote> <branch> 
+
+Pull 
+git pull <remote> <branch>
+
+Branch 
+git branch <option> <argumen>
+New Branch
+git branch <nama>
+
+Merge
+git merge <branch> 
+
+Log, memberikan history yang sifatnya public
+Reflog, memberikan log yang sifatnya private dan lebih mendetil
+
+git reflog
+
+Revert,  membuat commit baru yang memutarbalikan perubahan yang dispesifikasikan
+
+git revert <argumen> 
+argumend diisikan dengan id commit
+
+Reset, undo perubahan lokal
