@@ -1,3 +1,4 @@
 nama: Affan DN
 domisili: Ciledug
 hobi: Badmin
+status: ada
