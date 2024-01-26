@@ -1,0 +1,8 @@
+Remote
+git remote <perintah> <argumen1> <argumen2>
+
+Add
+git add <direktori>
+
+Commit
+git commit -m <message>
