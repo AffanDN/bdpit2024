@@ -6,3 +6,17 @@ git add <direktori>
 
 Commit
 git commit -m <message>
+
+Push
+git push <remote> <branch> 
+
+Pull 
+git pull <remote> <branch>
+
+Branch 
+git branch <option> <argumen>
+New Branch
+git branch <nama>
+
+Merge
+git merge <branch> 
